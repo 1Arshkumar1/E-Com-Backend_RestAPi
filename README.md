@@ -1,7 +1,7 @@
 # E-COM-Backend-App/RESTApi
 
 ## Project Setup
- - Download the zip file and extract it, as well as the node module.rar folder inside.
+ - Download the zip file and extract it.
  - Open the git bash terminal in this directory and run
     ```bash
       npm start  
